@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "670109edc91bb7a88f1b6992",
+    "index": 0,
+    "guid": "da302a71-9052-4246-987a-6dd14121df1d",
+    "isActive": false,
+    "balance": "$1,608.43",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "green",
+    "name": "Brandie Acevedo",
+    "gender": "female",
+    "company": "CYTRAK",
+    "email": "brandieacevedo@cytrak.com",
+    "phone": "+1 (877) 447-2413",
+    "address": "903 Knickerbocker Avenue, Topaz, Nevada, 9457",
+    "about": "Anim culpa quis eiusmod dolor nostrud cillum. Aute incididunt nisi exercitation pariatur nulla quis mollit aliqua cillum elit. Et anim laborum duis fugiat amet labore est sint aute ea. Id aliqua ipsum adipisicing aliquip.\r\n",
+    "registered": "2018-01-22T02:49:02 -06:-30",
+    "latitude": -86.56258,
+    "longitude": -27.969174,
+    "tags": [
+      "ullamco",
+      "elit",
+      "laboris",
+      "enim",
+      "incididunt",
+      "ea",
+      "cupidatat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Elinor Baxter"
+      },
+      {
+        "id": 1,
+        "name": "Padilla Vaughn"
+      },
+      {
+        "id": 2,
+        "name": "Gabrielle Donovan"
+      }
+    ],
+    "greeting": "Hello, Brandie Acevedo! You have 1 unread messages.",
+    "favoriteFruit": "orange"
+  },
+  {
+    "_id": "670109ed5e371ce0d910982b",
+    "index": 1,
+    "guid": "687b49eb-1d76-41d3-8a81-71ba8039cd88",
+    "isActive": false,
+    "balance": "$1,094.75",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "blue",
+    "name": "Graham Cote",
+    "gender": "male",
+    "company": "AVENETRO",
+    "email": "grahamcote@avenetro.com",
+    "phone": "+1 (902) 488-3896",
+    "address": "277 Voorhies Avenue, Goodville, Montana, 4864",
+    "about": "Reprehenderit ex aliqua enim amet occaecat id labore sint ea. Mollit proident cillum pariatur deserunt dolor non veniam incididunt nostrud aliquip commodo. Aute in eiusmod qui minim minim. Occaecat excepteur aute consectetur quis exercitation amet aliqua dolore labore qui consequat aliquip adipisicing.\r\n",
+    "registered": "2024-04-11T05:47:02 -06:-30",
+    "latitude": -8.908142,
+    "longitude": 72.484669,
+    "tags": [
+      "sunt",
+      "pariatur",
+      "sunt",
+      "laborum",
+      "incididunt",
+      "reprehenderit",
+      "fugiat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Anthony Fox"
+      },
+      {
+        "id": 1,
+        "name": "Keisha Knapp"
+      },
+      {
+        "id": 2,
+        "name": "Castro Yang"
+      }
+    ],
+    "greeting": "Hello, Graham Cote! You have 7 unread messages.",
+    "favoriteFruit": "orange"
+  },
+  {
+    "_id": "670109ede7b35b4388c18e19",
+    "index": 2,
+    "guid": "0b2156a6-5a0c-4b8d-975f-82588757f9b3",
+    "isActive": true,
+    "balance": "$1,319.73",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "eyeColor": "brown",
+    "name": "Queen Glass",
+    "gender": "female",
+    "company": "ZENTIA",
+    "email": "queenglass@zentia.com",
+    "phone": "+1 (863) 448-3239",
+    "address": "199 Hubbard Street, Haring, Maryland, 5577",
+    "about": "Magna exercitation eiusmod est id enim id sunt. Pariatur aliqua laborum laborum quis minim duis. Anim amet dolor ipsum laboris consequat occaecat culpa dolor Lorem elit mollit nulla. Mollit sint ut ea veniam voluptate Lorem non ex. Culpa voluptate aliqua reprehenderit Lorem ut esse cillum quis nisi. Ex magna est ad nulla consequat consectetur sunt deserunt aute Lorem. Cupidatat minim non laborum magna velit.\r\n",
+    "registered": "2018-12-16T08:38:53 -06:-30",
+    "latitude": 15.335113,
+    "longitude": 35.092326,
+    "tags": [
+      "et",
+      "fugiat",
+      "qui",
+      "proident",
+      "nulla",
+      "eu",
+      "anim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Hardin Jackson"
+      },
+      {
+        "id": 1,
+        "name": "Lowe Vance"
+      },
+      {
+        "id": 2,
+        "name": "Santana Hendricks"
+      }
+    ],
+    "greeting": "Hello, Queen Glass! You have 2 unread messages.",
+    "favoriteFruit": "ant"
+  },
+  {
+    "_id": "670109edb03639d4537b9569",
+    "index": 3,
+    "guid": "83ea2614-d7b4-4d7f-bbc0-9528b564cba2",
+    "isActive": false,
+    "balance": "$1,545.54",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "blue",
+    "name": "Stewart Blair",
+    "gender": "male",
+    "company": "GLEAMINK",
+    "email": "stewartblair@gleamink.com",
+    "phone": "+1 (897) 548-3955",
+    "address": "507 Pineapple Street, Stonybrook, New Jersey, 6221",
+    "about": "Consectetur tempor occaecat enim laboris dolor irure nisi tempor. Sint cupidatat minim irure commodo dolor aliquip quis mollit. Laboris aute consectetur deserunt aliqua ipsum consectetur cupidatat sint esse Lorem. Dolor occaecat aliquip pariatur aliqua in aute.\r\n",
+    "registered": "2023-06-01T11:13:06 -06:-30",
+    "latitude": 64.199448,
+    "longitude": -2.453579,
+    "tags": [
+      "eiusmod",
+      "sit",
+      "eu",
+      "dolor",
+      "irure",
+      "magna",
+      "ipsum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Leach Salazar"
+      },
+      {
+        "id": 1,
+        "name": "Cote Horne"
+      },
+      {
+        "id": 2,
+        "name": "Wilkerson Underwood"
+      }
+    ],
+    "greeting": "Hello, Stewart Blair! You have 2 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "670109ed0c891ab4ff4343a1",
+    "index": 4,
+    "guid": "b55efd7c-e3a7-45db-be7d-047ee95efc91",
+    "isActive": true,
+    "balance": "$1,565.41",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "blue",
+    "name": "Bettie Gaines",
+    "gender": "female",
+    "company": "HOMELUX",
+    "email": "bettiegaines@homelux.com",
+    "phone": "+1 (885) 414-3644",
+    "address": "788 Cheever Place, Spelter, Michigan, 1409",
+    "about": "Proident aliqua officia voluptate veniam fugiat Lorem excepteur. Occaecat officia nulla nisi ipsum nostrud et ad. In Lorem incididunt elit dolore excepteur laborum. Nisi laborum ullamco tempor ex consequat aliquip tempor magna nulla eiusmod eiusmod aliquip.\r\n",
+    "registered": "2015-06-08T04:58:39 -06:-30",
+    "latitude": 82.798502,
+    "longitude": -169.751654,
+    "tags": [
+      "sint",
+      "est",
+      "aliqua",
+      "elit",
+      "pariatur",
+      "ex",
+      "pariatur"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Hahn Benson"
+      },
+      {
+        "id": 1,
+        "name": "Bettye Wiggins"
+      },
+      {
+        "id": 2,
+        "name": "Roseann Sears"
+      }
+    ],
+    "greeting": "Hello, Bettie Gaines! You have 6 unread messages.",
+    "favoriteFruit": "orange"
+  }
+]
